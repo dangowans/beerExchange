@@ -1,0 +1,57 @@
+{
+  "barleyDays": {
+    "breweryName": "Barley Days Brewery",
+    "websiteURL": "",
+    "location": ""
+  },
+  "bellCity": {
+    "breweryName": "Bell City Brewing Company",
+    "websiteURL": "",
+    "location": ""
+  },
+  "blackrocks": {
+    "breweryName": "Blackrocks Brewery",
+    "websiteURL": "",
+    "location": ""
+  },
+  "gooseIsland": {
+    "breweryName": "Goose Island Beer Co.",
+    "websiteURL": "",
+    "location": ""
+  },
+  "highlander": {
+    "breweryName": "Highlander Brew Co.",
+    "websiteURL": "",
+    "location": ""
+  },
+  "keweenaw": {
+    "breweryName": "Keweenaw Brewing Company",
+    "websiteURL": "",
+    "location": ""
+  },
+  "manitoulin": {
+    "breweryName": "Manitoulin Brewing",
+    "websiteURL": "",
+    "location": ""
+  },
+  "maui": {
+    "breweryName": "Maui Brewing Company",
+    "websiteURL": "",
+    "location": ""
+  },
+  "oddSide": {
+    "breweryName": "Odd Side Ales",
+    "websiteURL": "",
+    "location": ""
+  },
+  "rogueAles": {
+    "breweryName": "Rogue Ales & Spirits",
+    "websiteURL": "",
+    "location": ""
+  },
+  "upperHand": {
+    "breweryName": "Upper Hand Lager",
+    "websiteURL": "",
+    "location": ""
+  }
+}

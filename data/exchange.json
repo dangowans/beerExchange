@@ -1,0 +1,59 @@
+{
+  "exchanges": {
+    "2018-2": {
+      "exchangeTitle": "Spring 2018",
+      "imageURL": "img/2018-2.jpg",
+      "selections": [
+        {
+          "beerName": "Sugar Shack Ale",
+          "beerStyle": "Red Ale - American Amber / Red",
+          "brewery": "barleyDays"
+        }, {
+          "beerName": "Hop Gobbler",
+          "beerStyle": "Pale Ale - American",
+          "brewery": "oddSide"
+        }, {
+          "beerName": "Pick Axe Blonde Ale",
+          "beerStyle": "Blonde Ale",
+          "brewery": "keweenaw"
+        }, {
+          "beerName": "Blacksmith Smoked Porter",
+          "beerStyle": "Smoked Beer",
+          "brewery": "highlander"
+        }, {
+          "beerName": "Bridal Veil Pale Ale",
+          "beerStyle": "Pale Ale - American",
+          "brewery": "manitoulin"
+        }, {
+          "beerName": "Eureka Cream Ale",
+          "beerStyle": "Cream Ale",
+          "brewery": "bellCity"
+        }, {
+          "beerName": "Hazelnut Brown Nectar",
+          "beerStyle": "Brown Ale - American",
+          "brewery": "rogueAles"
+        }, {
+          "beerName": "Swing Bridge Blonde Ale",
+          "beerStyle": "Blonde Ale",
+          "brewery": "manitoulin"
+        }, {
+          "beerName": "Midway IPA",
+          "beerStyle": "IPA - Session / India Session Ale",
+          "brewery": "gooseIsland"
+        }, {
+          "beerName": "Big Swell IPA",
+          "beerStyle": "IPA - American",
+          "brewery": "maui"
+        }, {
+          "beerName": "Grand Rabbits",
+          "beerStyle": "Cream Ale",
+          "brewery": "blackrocks"
+        }, {
+          "beerName": "Upper Hand Lager",
+          "beerStyle": "Lager - American Light",
+          "brewery": "upperHand"
+        }
+      ]
+    }
+  }
+}
