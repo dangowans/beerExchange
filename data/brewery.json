@@ -1,6 +1,16 @@
 {
+  "ballastPoint": {
+    "breweryName": "Ballast Point Brewing Company",
+    "websiteURL": "",
+    "location": ""
+  },
   "barleyDays": {
     "breweryName": "Barley Days Brewery",
+    "websiteURL": "",
+    "location": ""
+  },
+  "beards": {
+    "breweryName": "Beards Brewery",
     "websiteURL": "",
     "location": ""
   },
@@ -9,13 +19,33 @@
     "websiteURL": "",
     "location": ""
   },
+  "bench": {
+    "breweryName": "Bench Brewing Company",
+    "websiteURL": "",
+    "location": ""
+  },
   "blackrocks": {
     "breweryName": "Blackrocks Brewery",
     "websiteURL": "",
     "location": ""
   },
+  "cowbell": {
+    "breweryName": "Cowbell Brewing Co.",
+    "websiteURL": "",
+    "location": ""
+  },
+  "flyingMonkeys": {
+    "breweryName": "Flying Monkeys Craft Brewery",
+    "websiteURL": "",
+    "location": ""
+  },
   "gooseIsland": {
     "breweryName": "Goose Island Beer Co.",
+    "websiteURL": "",
+    "location": ""
+  },
+  "granvilleIsland": {
+    "breweryName": "Granville Island Brewing",
     "websiteURL": "",
     "location": ""
   },
@@ -39,6 +69,11 @@
     "websiteURL": "",
     "location": ""
   },
+  "newOntario": {
+    "breweryName": "New Ontario Brewing Co.",
+    "websiteURL": "",
+    "location": ""
+  },
   "oddSide": {
     "breweryName": "Odd Side Ales",
     "websiteURL": "",
@@ -49,8 +84,18 @@
     "websiteURL": "",
     "location": ""
   },
+  "stack": {
+    "breweryName": "Stack Brewing",
+    "websiteURL": "",
+    "location": ""
+  },
   "upperHand": {
     "breweryName": "Upper Hand Lager",
+    "websiteURL": "",
+    "location": ""
+  },
+  "wychwood": {
+    "breweryName": "Wychwood Brewery",
     "websiteURL": "",
     "location": ""
   }

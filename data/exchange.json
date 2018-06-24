@@ -54,6 +54,61 @@
           "brewery": "upperHand"
         }
       ]
+    },
+    "2018-1": {
+      "exchangeTitle": "Winter 2018",
+      "imageURL": "img/2018-1.jpg",
+      "selections": [
+        {
+          "beerName": "Doc Perdue's Bobcat",
+          "beerStyle": "Red Ale - American Amber / Red",
+          "brewery": "cowbell"
+        }, {
+          "beerName": "Twenty Mile Farmhouse Ale",
+          "beerStyle": "Saison / Farmhouse Ale",
+          "brewery": "bench"
+        }, {
+          "beerName": "Impact",
+          "beerStyle": "Altbier",
+          "brewery": "stack"
+        }, {
+          "beerName": "Rye Road",
+          "beerStyle": "IPA - Rye",
+          "brewery": "highlander"
+        }, {
+          "beerName": "Fathom IPA",
+          "beerStyle": "IPA - American",
+          "brewery": "ballastPoint"
+        }, {
+          "beerName": "Smashbomb Atomic IPA",
+          "beerStyle": "IPA - American",
+          "brewery": "flyingMonkeys"
+        }, {
+          "beerName": "Ball's Falls Session IPA",
+          "beerStyle": "IPA - Session / India Session Ale",
+          "brewery": "bench"
+        }, {
+          "beerName": "Hobgoblin Legendary Ruby Beer",
+          "beerStyle": "Brown Ale - English",
+          "brewery": "wychwood"
+        }, {
+          "beerName": "Honkers Ale",
+          "beerStyle": "English Bitter",
+          "brewery": "gooseIsland"
+        }, {
+          "beerName": "Lions Winter Ale",
+          "beerStyle": "Winter Ale",
+          "brewery": "granvilleIsland"
+        }, {
+          "beerName": "Serendipity",
+          "beerStyle": "Porter - Other",
+          "brewery": "beards"
+        }, {
+          "beerName": "Bear Runner Blonde",
+          "beerStyle": "Blonde Ale",
+          "brewery": "newOntario"
+        }
+      ]
     }
   }
 }
